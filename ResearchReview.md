@@ -5,7 +5,7 @@ Author: WCET & DETA
 Publish date: May 2021
 
 # Summary
-A systematic review of 17 peer-reviewed studies of ed tech interventions and their impact on traditionally underserved students (defined as Black, African American, Hispanic, Latinex, Latino or Latina, Native Hawaiian or Pacific Islander) enrolled in a 2 or 4 year public or private institution in the U.S. Useful as the review illustrates effective practices that can be incorporated elsewhere.
+A systematic review of 17 peer-reviewed studies of ed tech interventions and their impact on traditionally underserved students  (identified in the report as Black, African American, Hispanic, Latinex, Latino or Latina, Native or Indigenous American, including American Indian, Alaskan Native, Native Hawaiian, or Pacific Islander) enrolled in a 2 or 4 year public or private institution in the U.S. Useful as the review illustrates effective practices that can be incorporated elsewhere.
 
 # Findings
 ## Course Materials
