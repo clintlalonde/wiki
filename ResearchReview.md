@@ -32,5 +32,13 @@ and with each other to improve their learning and other outcomes
 -  collaborative learning is a potentially effective instructional and pedagogical approach to improve student outcomes. Students report satisfaction with online collaborative activities.
 - students prefer to work in smaller groups than with the entire class
 
+## Student level characteristics
+- students reported that previous academic success (e.g., dual enrollment) and
+previous technology experience (e.g., courses, technology familiarity) influenced their success
+- Students need interventions to ready them for online learning. Interventions (study guides, online preparation opportunity, computer application course, and a more advanced technology course to help students develop technological skills needed for their coursework) to prepare students to gain the skills needed to be successful in courses using educational technologies have shown a positive impact on outcomes.
+- Students taking a supplemental series of online preparation modules changed their study behaviors, had a greater use of self-assessment quizzing than the control group, and outperformed on quizzes and exams compared to the control group
+- research indicates that academic preparation and adaptive learning may impact student outcomes. For instance, a summer preparation course that uses adaptive learning may help students perform statistically better than students in a remedial course.
+- an online preparatory short course that used OER for chemistry, students performed better in the subsequent course than those students who did not participate in the preparatory short course
+
 # Notes
 - as expected, US centric report
