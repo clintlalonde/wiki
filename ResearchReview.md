@@ -11,16 +11,16 @@ A systematic review of 17 peer-reviewed studies of ed tech interventions and the
 ## Course Materials
 - Students wished for more culturally inclusive material and curriculum that provided
 opportunities to express their identity.
-- OER helped students engage with the content, particiapte in the course, and complete assignments.
+- OER helped students engage with the content, participate in the course, and complete assignments.
 
 ## Modality
 - Under certain circumstances, students were more likely to succeed in blended and online courses than in their face-to-face (face-to-face) counterparts. Blended entry level STEM courses and online upper level courses improved outcomes.
--Do not overload courses. Students who are high academic achievers with large course loads are less likely to complete online courses and are at higher risk of dropping out
+- Do not overload courses. Students who are high academic achievers with large course loads are less likely to complete online courses and are at higher risk of dropping out
 -  students reported that they liked their online courses because of  the non-prejudicial nature that provided a supportive and encouraging environment, rather than competition among peers, and the freedom to go at their own pace
 
 ## Instructional Design
 - course structure and design can influence student success
--  students have an even greater success (compared to blended/online success) when the courses are well structured or when they are part of the student’s degree program
+- students have an even greater success (compared to blended/online success) when the courses are well structured or when they are part of the student’s degree program
 - courses were designed using an **active learning pedagogy** approach that focused on **enhancing student engagement and interactions with each other and the material** rather than focusing on lecture-based instruction
 -  The manner in which students discussed their satisfaction with the convenience of having all the course materials organized pragmatically in one location
 - Research indicates that students require interactions with their instructors
