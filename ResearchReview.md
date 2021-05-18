@@ -1,4 +1,4 @@
-[Research Review: Educational Technologies and Their Impact on Student Success for Certain Racial and Ethnic Groups](docs\Research-Review-Educational-Technologies-and-Their-Impact-on-Student-Success-for-Certain-Racial-and-Ethnic-Groups.pdf)
+[Research Review: Educational Technologies and Their Impact on Student Success for Certain Racial and Ethnic Groups](docs/Research-Review-Educational-Technologies-and-Their-Impact-on-Student-Success-for-Certain-Racial-and-Ethnic-Groups.pdf)
 Published by WCET & DETA
 
 # Summary
